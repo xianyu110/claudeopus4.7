@@ -20,7 +20,7 @@ GPT-5.4 Thinking是这样评价它的对手Claude Opus 4.7发布给打工人带�
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVyeaSq8wqBZzuVS5b8esZvkKayVfCw8hl9jf09nkwTlRTohoSHeo4tx151WbJjySHou6lDQeRbnufL5y5f2mzuHdHbJ0lXDf4/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=4)
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=5)![img]()![img]()![img]()![img]()![img]()![img]()
+
 
 **本次升级的关键**
 
@@ -40,8 +40,6 @@ API 发布说明里，Anthropic 也把它称为当前最强的通用可用模型
 
 这能够从 Opus 4.7 的官方发布重点里直接看出来。
 
-**![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=12)![img]()![img]()![img]()![img]()![img]()![img]()**
-
 **纯编程只是开胃菜**
 
 ###  
@@ -53,8 +51,6 @@ Opus 4.7 拿 80.5%，Opus 4.6 拿 77.8%，涨 2.7 个百分点。
 单看这个数，似乎只是一次常规迭代。但同一张图右边那组数据更有意思，后面回头讲。
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVDrbDibwzazXrMOOPp5X1NYJNY3KXnuRmEFBtBAcsI3VjO1HUxJBWDxdnG1a8k2Uicm7DNicA2LibfVeEHvyp9GenVuzc1fBdcAEI/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=19)
-
-**![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=20)![img]()![img]()![img]()![img]()![img]()![img]()**
 
 **1M token 里的长任务**
 
@@ -79,8 +75,6 @@ Opus 4.6 最终余额 8,018 美元，Opus 4.7 做到 10,937 美元。
 同一台售货机，同一个时间窗口，Opus 4.7 多挣了 36%。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXIXNiaZAaPHOmibrcna3MmdPe17xtRHAibxic5mLDSlGpS8PmSUKvVWR9HMXQB6BOtudA9z4eK58w2G95zymVwbmldguZ6Siat7yQw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=28)
-
-**![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=29)![img]()**
 
 **Agent 的眼睛换了代**
 
@@ -114,7 +108,7 @@ Opus 4.7 的编程升级，重点是让模型看懂屏幕。眼睛换代了，�
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWXeJahJUCJh6jmPufOIuZRYt4FNhiatiagJnibtHE3gQg2YiamYj514ewgaoc9l2JIZghNhtZI4mibPxPz7b9vOUiaVWgj1ybeSy8oo/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=33)
 
-**![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=34)![img]()**
+
 
 **GPT-5.4 和 Gemini 3.1 Pro 都没扛住**
 
